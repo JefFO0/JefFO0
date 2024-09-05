@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JefFO0
 - 👀 I’m interested in ...Software Engineering
-- 🌱 I’m currently learning ... Javascript, Flutter & C#
+- 🌱 I’m currently learning ... Javascript, Kotlin, & Flutter 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...jeffreyoppong42@gmail.com
 
